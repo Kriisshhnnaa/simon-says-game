@@ -1,0 +1,45 @@
+body
+{
+    text-align: center;
+}
+.btn
+{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 8px solid black;
+    margin: 10px;
+}
+.outer
+{
+    display: flex;
+    justify-content: center;
+}
+.green
+{
+    background:lightgreen;
+}
+.blue
+{
+    background-color: lightblue;
+}
+.red
+{
+    background: crimson;
+}
+.yellow
+{
+    background: yellow;
+}
+.flash
+{
+    background: white;
+}
+.userflash
+{
+    background: #000;
+}
+.endflash
+{
+    background: crimson;
+}
